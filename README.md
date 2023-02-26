@@ -1,5 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gomeskeraunos/simpleskeylogger)
-![GitHub all releases](https://img.shields.io/github/downloads/gomeskeraunos/simplekeylogger/total)
+![GitHub all releases](https://img.shields.io/github/downloads/gomeskeraunos/simplekeylogger/total?logo=GitHub&logoColor=%23ff0000&style=plastic)
 
 # Simple Python [Keylogger](https://pt.wikipedia.org/wiki/Keylogger)
 Simple Python, Console Print, Keylogger.
