@@ -1,8 +1,6 @@
 # Simple Python Keylogger
 Simple Python, Console Print, Keylogger.
 
-Made by 77KGMZ with love
-
 ## Instalation
 ```python
 # Dont forget to open your command prompt on the designated file!
@@ -11,5 +9,12 @@ Made by 77KGMZ with love
 pip install -r requirements.txt
 ```
 ## Usage
+```python
+# On the same command prompt type this command:
+
+python keylogger.py
+```
 
 ## License
+Made by 77KGMZ with love
+[MIT](https://choosealicense.com/licenses/mit/)
