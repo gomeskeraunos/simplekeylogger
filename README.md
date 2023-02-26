@@ -5,14 +5,14 @@
 Simple Python, Console Print, Keylogger.
 
 ## Instalation
-```python
+```Python
 # Dont forget to open your command prompt on the designated file!
 # After opening write this command:
 
 pip install -r requirements.txt
 ```
 ## Usage
-```python
+```Python
 # On the same command prompt type this command:
 
 python keylogger.py
