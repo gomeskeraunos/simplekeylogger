@@ -5,7 +5,7 @@ from colorama import Fore
 
 colorama.just_fix_windows_console()
 
-print(Fore.RED + '77KGMZ\'s Simple Python Keylogger')
+print(Fore.RED + 'gomeskeraunos Simple Python Keylogger')
 
 keys = []
 
