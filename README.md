@@ -1,4 +1,6 @@
-# Simple Python Keylogger
+![GitHub last commit](https://img.shields.io/github/last-commit/gomeskeraunos/simpleskeylogger)
+
+# Simple Python [Keylogger](https://pt.wikipedia.org/wiki/Keylogger)
 Simple Python, Console Print, Keylogger.
 
 ## Instalation
@@ -15,6 +17,8 @@ pip install -r requirements.txt
 python keylogger.py
 ```
 
+## Credits
+Made by [77KGMZ](https://linktr.ee/77kgmz) with love
+
 ## License
-Made by 77KGMZ with love
 [MIT](https://choosealicense.com/licenses/mit/)
