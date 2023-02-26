@@ -4,6 +4,7 @@ from colorama import Fore
 import os
 
 os.system('cls')
+os.system('Simple Keylogger')
 
 colorama.just_fix_windows_console()
 
