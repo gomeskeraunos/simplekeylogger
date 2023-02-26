@@ -1,7 +1,9 @@
 from pynput.keyboard import Key, Listener
 import colorama
 from colorama import Fore
+import os
 
+os.system('cls')
 
 colorama.just_fix_windows_console()
 
