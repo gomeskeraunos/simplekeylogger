@@ -13,6 +13,8 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```python
+# On the same command prompt type this command:
+
 python keylogger.py
 ```
 
